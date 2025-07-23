@@ -1,6 +1,5 @@
 # 📊 E-commerce Dashboard - Power BI Project
 
-![Ecommerce Dashboard](./536e94f7-e348-494b-8645-4ab11a0aec5f.png)
 
 > **Created by:** Patnam Hanesha  
 > 🚀 *Data Analyst | Power BI Developer | AI Enthusiast*
