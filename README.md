@@ -47,16 +47,7 @@ To build a professional-grade Business Intelligence dashboard that enables stake
 - Identify top-selling products and markets
 - Optimize shipping methods for cost efficiency
 - Support data-driven decision making
-
 ---
-
-## 📁 Files Included
-
-- `536e94f7-e348-494b-8645-4ab11a0aec5f.png` – Dashboard Screenshot  
-- (Optional) `Ecommerce_Dashboard.pbix` – Power BI file *(if uploading)*
-
----
-
 ## 📢 How to Use
 
 1. Clone this repository  
@@ -77,8 +68,8 @@ Grateful for the learning support from:
 
 ## 🔗 Connect with Me
 
-📧 **Email:** [YourEmail@example.com]  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+📧 **Email:** [haneshahani05@gmail.com]  
+💼 **LinkedIn:** [https://www.linkedin.com/in/patnam-hanesha-a6714b281]  
 📍 **Location:** Tirupati, India  
 
 ---
